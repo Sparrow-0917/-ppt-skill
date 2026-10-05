@@ -1,0 +1,5 @@
+interface:
+  display_name: "PPT Workflow"
+  short_description: "Reusable PowerPoint creation, editing, and QA workflow"
+  brand_color: "#1F4E79"
+  default_prompt: "Use $ppt-workflow to create or safely edit this PowerPoint with the appropriate workflow and quality checks."
